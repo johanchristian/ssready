@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "a34315185456266be4a34eda5437e739",
-    "content-hash": "057a792e448c25eb9dd3ea1bb5c83b14",
+    "hash": "16076a36b79df6e282e0951523d9256d",
+    "content-hash": "1f097e1f3fa40373ce55c8f9db44fa85",
     "packages": [
         {
             "name": "composer/installers",
@@ -344,6 +344,43 @@
                 "siteconfig"
             ],
             "time": "2016-06-02 05:07:41"
+        },
+        {
+            "name": "silverstripe/subsites",
+            "version": "1.2.3",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/silverstripe/silverstripe-subsites.git",
+                "reference": "bdecbe90976b8486da3414c1338a669c753661a6"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/silverstripe/silverstripe-subsites/zipball/bdecbe90976b8486da3414c1338a669c753661a6",
+                "reference": "bdecbe90976b8486da3414c1338a669c753661a6",
+                "shasum": ""
+            },
+            "require": {
+                "silverstripe/cms": "~3.2",
+                "silverstripe/framework": "~3.2"
+            },
+            "require-dev": {
+                "phpunit/phpunit": "~3.7@stable"
+            },
+            "type": "silverstripe-module",
+            "notification-url": "https://packagist.org/downloads/",
+            "authors": [
+                {
+                    "name": "Sam Minnee",
+                    "email": "sam@silverstripe.com"
+                }
+            ],
+            "description": "Run multiple sites from a single SilverStripe install.",
+            "keywords": [
+                "multisite",
+                "silverstripe",
+                "subsites"
+            ],
+            "time": "2016-05-24 04:58:07"
         }
     ],
     "packages-dev": [

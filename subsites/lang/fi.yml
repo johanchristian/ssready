@@ -1,0 +1,66 @@
+fi:
+  ASSETADMIN:
+    SUBSITENOTICE: 'Kansiot ja tiedostot, jotka on luotu pääsivustolla, ovat käytettävissä kaikissa alisivustoissa.'
+  FileSubsites:
+    AllSitesDropdownOpt: 'Kaikki sivustot'
+    SubsiteFieldLabel: Alisivusto
+  GridFieldAddFromTemplateButton:
+    AddFromTemplate: 'Lisää uusi sivupohjasta'
+  GroupSubsites:
+    ACCESSALL: 'Kaikki alasivustot'
+    ACCESSONLY: 'Vain nämä alasivustot'
+    ACCESSRADIOTITLE: 'Anna tälle ryhmälle pääsy kohteeseen'
+    GlobalGroup: 'Globaaliryhmä'
+    MANAGE_SUBSITES: 'Hallinnoi ryhmien alisivustoja'
+    MANAGE_SUBSITES_HELP: 'Mahdollisuus rajoittaa ryhmän oikeuksia yhdelle tai useammalle alisivustolle.'
+    SECURITYTABTITLE: Alisivustot
+  LeftAndMainSubsites:
+    Saved: 'Tallennettu, ole hyvä ja päivitä liittyvät sivut.'
+  SiteTreeSubsites:
+    CopyAction: Kopioi
+    CopyToSubsite: 'Kopioi sivu alisivustolle'
+  Subsite:
+    COPYSTRUCTURE: 'Kopioi rakenne kohteesta:'
+    CopyMessage: 'Luotiin kopio lähteestä {title}'
+    CustomExtraMeta: 'Omat Meta-tagit'
+    CustomMetaDescription: Kuvaus
+    CustomMetaKeywords: Avainsanat
+    CustomMetaTitle: Otsikko
+    DOMAINSAVEFIRST: 'Voit lisätä domain-osoitteita vasta tallentamisen jälkeen'
+    DomainsHeadline: 'Tämän alisivuston domainit'
+    DomainsListTitle: Domainit
+    IsPublicHeaderField: 'Aktiivinen alisivusto'
+    NOTEMPLATE: 'Ei sivupohjaa'
+    PLURALNAME: Alasivustot
+    PageTypeBlacklistField: 'Kiellä sivutyyppien käyttö?'
+    SINGULARNAME: Alisivusto
+    SiteConfigSubtitle: 'Iskulauseesi'
+    SiteConfigTitle: 'Sivuston nimi'
+    TabTitleConfig: Asetukset
+    ValidateTitle: 'Lisää "Otsikko"'
+  SubsiteAdmin:
+    MENUTITLE: Alasivustot
+  SubsiteDomain:
+    DOMAIN: Domain
+    PLURALNAME: 'Alisivuston domain-osoitteet'
+    SINGULARNAME: 'Alisivuston domain-osoite'
+  SubsiteReportWrapper:
+    ReportDropdown: Sivustot
+  SubsiteXHRController:
+    MENUTITLE: SubsiteXHRController
+  Subsites:
+    DefaultSiteFieldLabel: 'Oletussivusto'
+    DomainFieldLabel: Domain
+    IsPublicFieldLabel: 'Aktivoi julkinen pääsy'
+    LanguageFieldLabel: Kieli
+    MainSiteTitle: 'Pääsivusto'
+    PageTypeBlacklistFieldLabel: 'Sivutyyppien mustalista'
+    PrimaryDomainFieldLabel: 'Oletusdomain'
+    RedirectURLFieldLabel: 'Edelleenohjaus URL'
+    ThemeFieldLabel: Teema
+    TitleFieldLabel: 'Alisivuston nimi'
+  SubsitesVirtualPage:
+    DESCRIPTION: 'Näyttää sisällön toisen alisivuston sivulta'
+    PLURALNAME: 'Pohjasivut'
+    SINGULARNAME: 'Alisivuston Virtuaalisivu'
+    SubsiteField: Alisivu
