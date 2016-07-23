@@ -13,7 +13,11 @@ $localEnv = [
     'dbpassword' => 'johan.christian',
     'dbname'     => 'che1277',
     'domains'    => [
-        'ssready.local'
+        'ssready.local',
+        'melbourne.ssready.local',
+        'sydney.ssready.local',
+        'melbourne.local',
+        'sydney.local',
     ]
 ];
 
